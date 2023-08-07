@@ -199,7 +199,7 @@ h2.about-header
 {
     position: absolute;
     height: 100%;
-    background-image: linear-gradient(to bottom right, rgba(51,198,184, 1), rgba(51,198,184, 0.5));
+    background-image: linear-gradient(to bottom right, rgba(94, 30, 159,1), rgba(94, 30, 159, 0.5));
     /*background-color: #b300ff;*/
     border-radius: 3px;
     z-index: 10;
